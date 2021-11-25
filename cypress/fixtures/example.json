@@ -1,0 +1,14 @@
+{
+  "firstName": "Isaac",
+  "lastName": "Ponteres",
+  "password": "foobar",
+  "confirmPassword": "foobar",
+  "product": "laptop",
+  "itemQuantity": "3",
+  "country": "Philippines",
+  "countryValue": "60",
+  "city": "Pangasinan",
+  "address1": "Bolinao",
+  "zipCode": "2406",
+  "phoneNumber": "09778268888"
+}

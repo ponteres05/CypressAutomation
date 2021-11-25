@@ -1,0 +1,9 @@
+{
+
+    "defaultCommandTimeout":30000,
+    "env": {
+        "url": "http://demowebshop.tricentis.com/"
+    },
+    "reporter": "mochawesome"
+      
+}
